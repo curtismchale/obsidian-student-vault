@@ -1,0 +1,1 @@
+This is a demo vault for students that want to use Obsidian. You can find the full instructions in the note titled [[How to Use This Vault]] along with a video of me talking through the how to use it.

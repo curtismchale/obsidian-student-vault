@@ -1,0 +1,189 @@
+{
+  "main": {
+    "id": "9e8435b4b453232b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8bf255adc183b313",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "616475b512d4b4b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "040 - Tags/basic income.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fad0c1a584946018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How to Use This Vault.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "905d77f4a76c27c9",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4cdcf0f0a42da44",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b9c0ca6e568a32b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "189f6e180bee420d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dddf0cbc2f0b3b4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "69431843e2c41654",
+    "type": "split",
+    "children": [
+      {
+        "id": "cec8b95f73d14809",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2acdb66dbe75dcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "How to Use This Vault.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6684d682020a88c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How to Use This Vault.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d26860c818b47a72",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "70b3c39d89fa941d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How to Use This Vault.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fad0c1a584946018",
+  "lastOpenFiles": [
+    "z - Attachments/obsidian-assets-settings.png",
+    "z - Templates/Research Resource Template.md",
+    "040 - Tags/basic income.md",
+    "z - Templates/Tagnote Template.md",
+    "How to Use This Vault.md",
+    "030 - Notes/New Resource.md",
+    "040 - Tags/000 - Using Tagnotes.md",
+    "030 - Notes/Resource Title.md",
+    "020 - Assignments/Assignment Title.md",
+    "010 - Classes/Family Counselling 201/June 10 Class Notes.md",
+    "020 - Assignments/Archived Assignments",
+    "010 - Classes/Family Counselling 201/000 - Syllabus.md",
+    "z - Templates",
+    "z - Attachments",
+    "040 - Tags",
+    "030 - Notes",
+    "010 - Classes/Psych 101/June 12 Class Notes.md",
+    "010 - Classes/Psych 101/000 - Syllabus.md",
+    "020 - Assignments",
+    "010 - Classes/Family Counselling 201",
+    "010 - Classes/Psych 101",
+    "010 - Classes",
+    "000 - Inbox"
+  ]
+}
